@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "me.ryleu.mindful_eating.ExampleMod"
+      "me.ryleu.mindful_eating.MindfulEating"
     ]
   },
   "mixins": [
